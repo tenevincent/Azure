@@ -1,0 +1,16 @@
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.exe
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.csprojAssemblyReference.cache
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.AssemblyInfoInputs.cache
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.AssemblyInfo.cs
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.deps.json
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.runtimeconfig.json
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.runtimeconfig.dev.json
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.dll
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.pdb
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.csproj.CopyComplete
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.dll
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.pdb
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.genruntimeconfig.cache
+C:\DevGit\Azure\PacktCourse.AzureStorageDemo\PacktPub.AzureStorage.Demos\obj\Debug\netcoreapp3.1\PacktPub.AzureStorage.Demos.csproj.CoreCompileInputs.cache
